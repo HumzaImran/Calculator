@@ -1,7 +1,7 @@
 # Calculator
 
 ## About
-Welcome to Simple Calculator. A calculator coded in C which allows basic functions. 
+Welcome to Simple Calculator. A calculator coded in C which allows basic calculator functions. 
 
 ## Functions
 In this calculator you are required to enter an operand followed by an operator and then a secondary operand.
